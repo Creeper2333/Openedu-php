@@ -45,6 +45,16 @@ alert("功能未开放")
       <th width="374" scope="col" onclick="w()"><h3><span class="STYLE1">下载 破解版翼课网 for Windows (32-bit) </span></h3></th>
     </tr>
   </table>
+   <table width="755" height="153" border="1" cellpadding="0" cellspacing="0">
+    <tr>
+      <th width="375" valign="middle" bgcolor="#FFFFFF" scope="col" onclick="w()"><div align="left">
+        <h3 align="center" class="STYLE1">下载 破解版翼课网 Extension Pack</a></h3>
+        <h3 align="center" class="STYLE1">(64-bit)</a> </h3>
+      </div></th>
+      <th width="374" scope="col" onclick="w()"><h3><span class="STYLE1">下载 破解版翼课网 Extension Pack </span></h3>
+        <h3><span class="STYLE1">(32-bit) </span></h3></th>
+    </tr>
+  </table>
 </div>
 <h2 align="center" class="STYLE1">基于 <span class="STYLE2">Python</span> 语言的高效能程序使得我们可以在短时间内实现复杂的网络操作！</h2>
 <h2 align="center" class="STYLE1">完全不必担心数据泄露！我们完全可以以我们的人格担保！</h2>
